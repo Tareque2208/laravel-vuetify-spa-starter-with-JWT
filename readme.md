@@ -1,6 +1,6 @@
-## Laravel Vuetify SPA Starter with JWT Authentication by Ahmed Tareque[tareque.bracu@gmail.com]
+## Laravel Vuetify SPA Starter with JWT Authentication
 
-Laravel-VueJS starter build with Laravel 6.5.0 and Vuetify 2.1.9 with JWT authentication 1.0.0-rc.5 by Ahmed Tareque[tareque.bracu@gmail.com]
+Laravel-VueJS starter build with Laravel 6.5.0 and Vuetify 2.1.9 with JWT authentication 1.0.0-rc.5
 
 ## Includes
 
